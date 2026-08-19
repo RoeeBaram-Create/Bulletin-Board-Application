@@ -1,0 +1,74 @@
+﻿[
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "Title": "מחשב נייד למכירה",
+    "Description": "מחשב גיימינג עוצמתי במצב מצוין, בשימוש חצי שנה בלבד.",
+    "Price": 4500.0,
+    "Status": "Active",
+    "Category": "Electronics",
+    "Condition": "LikeNew",
+    "ImageUrls": [
+      "uploads/laptop1.jpg",
+      "uploads/laptop2.jpg"
+    ],
+    "CreatedAt": "2026-01-15T10:00:00Z",
+    "UpdatedAt": null,
+    "ContactPhone": "050-1234567",
+    "SellerEmail": "user@example.com",
+    "City": "פאתי גן יבנה",
+
+    "Latitude": 31.7822,
+    "Longitude": 34.7053
+  },
+  {
+    "Id": "7d9283e1-2a1b-4c5d-9e8f-0a1b2c3d4e5f",
+    "Title": "שולחן כתיבה מעץ",
+    "Description": "שולחן כתיבה רחב, מתאים לסטודנטים.",
+    "Price": 400.0,
+    "Status": "Active",
+    "Category": "Furniture",
+    "Condition": "Used",
+    "ImageUrls": [],
+    "CreatedAt": "2026-01-14T08:30:00Z",
+    "UpdatedAt": "2026-01-15T09:00:00Z",
+    "ContactPhone": "052-7654321",
+    "SellerEmail": "furniture.seller@mail.com",
+    "City": "תל אביב",
+    "Latitude": 32,
+    "Longitude": 33
+  },
+  {
+    "Id": "7d9283e1-2a1b-4c5d-9e8f-0a1b2c3d4e1f",
+    "Title": "כלב קינג צ'רלס'",
+    "Description": "הכלב מאוד ידידותי",
+    "Price": 3000,
+    "Status": "Active",
+    "Category": "Pets",
+    "Condition": "Used",
+    "ImageUrls": [],
+    "CreatedAt": "2026-01-14T08:30:00Z",
+    "UpdatedAt": "2026-01-15T09:00:00Z",
+    "ContactPhone": "052-7654321",
+    "SellerEmail": "pets.seller@mail.com",
+    "City": "רעננה",
+    "Latitude": 32,
+    "Longitude": 33
+  },
+  {
+    "Id": "7d9283e1-2a1b-4c5d-9e8f-0a1b2c3d4e2f",
+    "Title": "סוזוקי קרוסאובר 2020",
+    "Description": "הרכב יד שניה מאוד אמין",
+    "Price": 70000,
+    "Status": "Active",
+    "Category": "Vehicles",
+    "Condition": "Used",
+    "ImageUrls": [],
+    "CreatedAt": "2026-01-14T08:30:00Z",
+    "UpdatedAt": "2026-01-15T09:00:00Z",
+    "ContactPhone": "052-7654321",
+    "SellerEmail": "pets.seller@mail.com",
+    "City": "חיפה",
+    "Latitude": 32,
+    "Longitude": 33
+  }
+]

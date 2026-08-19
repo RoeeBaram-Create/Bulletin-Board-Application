@@ -1,0 +1,199 @@
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Storage\ads.Json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\appsettings.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.exe
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.runtimeconfig.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Persistance.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Persistance.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.csproj.AssemblyReference.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets\msbuild.BulletinBoard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets\msbuild.build.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\scopedcss\bundle\BulletinBoard.styles.css
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.csproj.CopyComplete
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\refint\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\BulletinBoard.genruntimeconfig.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting\obj\Debug\net8.0\ref\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Storage\ads.Json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\appsettings.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.exe
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.runtimeconfig.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.AssemblyReference.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.BulletinBoard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.build.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BulletinBoard.props
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\scopedcss\bundle\BulletinBoard.styles.css
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.CopyComplete
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\refint\BulletinBoard.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\BulletinBoard.genruntimeconfig.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard\obj\Debug\net8.0\ref\BulletinBoard.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Storage\ads.Json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\appsettings.Development.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\appsettings.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.exe
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.deps.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.runtimeconfig.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\AutoMapper.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.AssemblyReference.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.AssemblyInfoInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.AssemblyInfo.cs
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.CoreCompileInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cs
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.sourcelink.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.BulletinBoard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.build.BulletinBoard.props
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BulletinBoard.props
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BulletinBoard.props
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\scopedcss\bundle\BulletinBoard.styles.css
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.csproj.CopyComplete
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\refint\BulletinBoard.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\BulletinBoard.genruntimeconfig.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard\obj\Debug\net8.0\ref\BulletinBoard.dll

@@ -1,0 +1,87 @@
+<h2 mat-dialog-title dir="rtl">
+  @if (data?.id) {
+    <mat-icon>edit</mat-icon> עריכת מודעה
+  } @else {
+    <mat-icon>add_circle</mat-icon> פרסום מודעה חדשה
+  }
+</h2>
+
+<mat-dialog-content dir="rtl" class="dialog-form" [formGroup]="adForm">
+  <div class="form-container">
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>כותרת המודעה</mat-label>
+      <input matInput formControlName="title" placeholder="מה אתם מוכרים?">
+      @if (adForm.get('title')?.hasError('required')) {
+        <mat-error>חובה להזין כותרת למודעה</mat-error>
+      }
+      @if (adForm.get('title')?.hasError('minlength')) {
+        <mat-error>הכותרת חייבת להכיל לפחות 3 תווים</mat-error>
+      }
+    </mat-form-field>
+
+    <div class="row">
+      <mat-form-field appearance="outline" class="half-width">
+        <mat-label>מחיר (₪)</mat-label>
+        <input matInput type="number" formControlName="price" placeholder="0">
+        <mat-icon matSuffix>sell</mat-icon>
+        @if (adForm.get('price')?.hasError('required')) {
+          <mat-error>נא להזין מחיר</mat-error>
+        }
+        @if (adForm.get('price')?.hasError('min')) {
+          <mat-error>המחיר חייב להיות גבוה מ-0</mat-error>
+        }
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="half-width">
+        <mat-label>קטגוריה</mat-label>
+        <mat-select formControlName="category">
+          <mat-option value="הכל">כל הקטגוריות</mat-option>
+          <mat-option value="Electronics">חשמל</mat-option>
+          <mat-option value="Vehicles">רכב</mat-option>
+          <mat-option value="Pets">חיות מחמד</mat-option>
+          <mat-option value="Furniture">רהיטים</mat-option>
+        </mat-select>
+        @if (adForm.get('category')?.hasError('required')) {
+          <mat-error>חובה לבחור קטגוריה</mat-error>
+        }
+      </mat-form-field>
+    </div>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>תיאור המודעה</mat-label>
+      <textarea matInput rows="4" formControlName="description" placeholder="ספרו קצת על מה שאתם מפרסמים..."></textarea>
+      @if (adForm.get('description')?.hasError('required')) {
+        <mat-error>חובה להזין תיאור למודעה</mat-error>
+      }
+    </mat-form-field>
+
+   
+    <mat-form-field appearance="outline" class="full-width">
+  <mat-label>מיקום (כתובת/עיר)</mat-label>
+  <input matInput formControlName="city" placeholder="הקלידו עיר או לחצו על הכוונת...">
+  
+
+  <button mat-icon-button matSuffix (click)="detectLocation()" type="button" matTooltip="זהה את המיקום שלי">
+    <mat-icon>my_location</mat-icon>
+  </button>
+  
+  @if (adForm.get('city')?.hasError('required')) {
+    <mat-error>חובה להזין מיקום</mat-error>
+  }
+</mat-form-field>
+
+  </div>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end" dir="rtl">
+  <button mat-button (click)="onCancel()">ביטול</button>
+  
+  <button mat-raised-button color="primary" (click)="onSave()">
+    @if (data?.id) {
+      שמור שינויים
+    } @else {
+      פרסם עכשיו
+    }
+  </button>
+</mat-dialog-actions>

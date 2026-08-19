@@ -1,0 +1,112 @@
+<div dir="rtl">
+
+  <mat-toolbar color="primary" >
+    <div class="logo-area">
+      <mat-icon>dashboard</mat-icon>
+      <span>לוח מודעות פרימיום 2026</span>
+    </div>
+
+    <button class="header" mat-raised-button color="accent" (click)="openAdDialog()">
+      <mat-icon>add</mat-icon>
+      פרסם מודעה חדשה
+    </button>
+  </mat-toolbar>
+
+  <div class="content-container">
+    <mat-card class="filter-card">
+      <mat-card-content class="filter-layout">
+        
+        <mat-form-field appearance="outline"  class="filter-item text-search">
+          <mat-label>חפש בכותרת המודעה...</mat-label>
+          <input matInput [ngModel]="searchTitle()" (ngModelChange)="searchTitle.set($event)" placeholder="לדוגמה: אייפון, דירה...">
+          <mat-icon matSuffix>search</mat-icon>
+        </mat-form-field>
+
+        <mat-form-field appearance="outline"  class="filter-item">
+          <mat-label>קטגוריה</mat-label>
+          <mat-select [ngModel]="category()" (ngModelChange)="category.set($event)">
+             <mat-option value="All">כל הקטגוריות</mat-option>
+            <mat-option value="Electronics">חשמל</mat-option>
+            <mat-option value="Vehicles">רכב</mat-option>
+            <mat-option value="Pets">חיות מחמד</mat-option>
+             <mat-option value="Furniture">רהיטים</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field appearance="outline" class="filter-item">
+  <mat-label>מיקום (עיר)</mat-label>
+  <input matInput 
+         [ngModel]="locationSearch()" 
+         (ngModelChange)="locationSearch.set($event)" 
+         placeholder="לדוגמה: אשדוד, תל אביב">
+  <mat-icon matSuffix>location_on</mat-icon>
+</mat-form-field>
+
+        <mat-form-field appearance="outline" class="filter-item">
+          <mat-label>מחיר מקסימלי (₪)</mat-label>
+          <input matInput type="number" [ngModel]="maxPrice()" (ngModelChange)="maxPrice.set($event)" placeholder="ללא הגבלה">
+          <mat-icon matSuffix>payments</mat-icon>
+        </mat-form-field>
+           <div class="filter-item checkbox-wrapper">
+    <mat-checkbox 
+      color="primary" 
+      (change)="toggleLocationFilter($event.checked)">
+      הצג מודעות קרובות אליי (עד 15 ק"מ)
+    </mat-checkbox>
+  </div>
+        
+      </mat-card-content>
+    </mat-card>
+
+  
+ <div class="ads-grid">
+  @for (ad of ads(); track ad.id) {
+    <mat-card class="ad-card">
+      <mat-card-header>
+        <div mat-card-avatar class="category-icon" [ngClass]="ad.category">
+          <mat-icon>{{ 
+            ad.category === 'Vehicles' ? 'directions_car' : 
+            ad.category === 'Electronics' ? 'bolt' : 
+            ad.category === 'Pets' ? 'pets' : 
+            ad.category === 'Furniture' ? 'chair' : 'label' 
+          }}</mat-icon>
+        </div>
+        <mat-card-title class="ad-title">{{ ad.title }}</mat-card-title>
+        <mat-card-subtitle class="category-sub">{{ ad.categoryDescription }}</mat-card-subtitle>
+        
+        <mat-card-subtitle class="city-sub">
+          <mat-icon class="inline-icon">location_on</mat-icon>
+          <span>{{ ad.city }}</span>
+        </mat-card-subtitle>
+      </mat-card-header>
+
+      <mat-card-content>
+        <div class="price-badge">
+          <span class="price-value">{{ ad.price | number }} ₪</span>
+        </div>
+        <p class="description">{{ ad.description }}</p>
+      </mat-card-content>
+
+      <mat-divider></mat-divider>
+
+      <mat-card-actions align="end">
+        <button mat-icon-button class="action-btn edit-btn" (click)="openAdDialog(ad)" matTooltip="ערוך מודעה">
+          <mat-icon>edit</mat-icon>
+        </button>
+        <button mat-icon-button class="action-btn delete-btn" (click)="onDeleteAd(ad.id)" matTooltip="מחק מודעה">
+          <mat-icon>delete</mat-icon>
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  } @empty {
+    <div class="empty-state">
+      <mat-icon>search_off</mat-icon>
+      <h3>לא נמצאו מודעות</h3>
+      <p>נסו לשנות את פילטר החיפוש או המחיר כדי למצוא תוצאות רלוונטיות.</p>
+      <button mat-stroked-button color="primary" (click)="resetFilters()">אפס את כל הפילטרים</button>
+    </div>
+  }
+</div>
+
+  </div>
+</div>

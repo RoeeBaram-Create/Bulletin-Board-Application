@@ -1,0 +1,11 @@
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\JobPosting.Domain.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\JobPosting.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\JobPosting.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\refint\JobPosting.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\JobPosting.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\ref\JobPosting.Domain.dll

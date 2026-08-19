@@ -1,0 +1,231 @@
+.filter-layout {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    flex-wrap: nowrap;
+    padding: 8px 16px !important;
+}
+
+.filter-item {
+    margin: 0 !important;
+    transform-origin: right center;
+}
+
+.text-search {
+    flex: 2;
+    max-width: 280px;
+    min-width: 160px;
+}
+
+.dropdown-select,
+.city-search,
+.price-search {
+    flex: 1;
+    max-width: 160px;
+    min-width: 110px;
+}
+
+.checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    padding-bottom: 22px;
+    margin-right: auto !important;
+    transform-origin: left center;
+}
+
+@media (max-width: 992px) {
+    .filter-layout {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 768px) {
+    .filter-layout {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .text-search,
+    .dropdown-select,
+    .city-search,
+    .price-search {
+        max-width: 100%;
+    }
+
+    .checkbox-wrapper {
+        margin-right: 0 !important;
+        justify-content: center;
+        padding-bottom: 12px;
+        transform-origin: center center;
+    }
+
+    .header {
+        margin-right: 150px !important;
+        font-size: 20px;
+    }
+}
+
+
+.ads-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    width: 100%;
+    margin-top: 16px;
+    direction: rtl;
+}
+
+.ad-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important;
+    border-radius: 8px !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ad-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1) !important;
+}
+
+.empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 48px 16px;
+    color: #666;
+}
+
+.empty-state mat-icon {
+    font-size: 48px;
+    width: 48px;
+    height: 48px;
+    margin-bottom: 16px;
+}
+
+@media (max-width: 576px) {
+    .ads-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+}
+
+.ads-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    width: 100%;
+    margin-top: 16px;
+    direction: rtl;
+}
+
+.ad-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    border-radius: 12px !important;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04) !important;
+    background: #ffffff;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.ad-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08) !important;
+    border-color: #e0e0e0;
+}
+
+.category-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    color: #ffffff;
+}
+
+.category-icon.Vehicles {
+    background: linear-gradient(135deg, #ff9800, #f57c00);
+}
+
+.category-icon.Electronics {
+    background: linear-gradient(135deg, #2196f3, #1976d2);
+}
+
+.category-icon.Pets {
+    background: linear-gradient(135deg, #4caf50, #388e3c);
+}
+
+.category-icon.Furniture {
+    background: linear-gradient(135deg, #9c27b0, #7b1fa2);
+}
+
+
+.ad-title {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: #2c3e50;
+}
+
+.category-sub {
+    color: #7f8c8d !important;
+    font-size: 0.85rem;
+}
+
+.city-sub {
+    display: flex;
+    align-items: center;
+    color: #1abc9c !important;
+    font-weight: 500;
+    font-size: 0.85rem;
+    margin-top: 2px;
+}
+
+.inline-icon {
+    font-size: 16px !important;
+    width: 16px !important;
+    height: 16px !important;
+    margin-left: 4px;
+}
+
+.price-badge {
+    background-color: #fff9db;
+    border: 1px solid #ffe066;
+    padding: 6px 12px;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 12px 0;
+}
+
+.price-value {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #e67e22;
+}
+
+.description {
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 8px;
+}
+
+.action-btn {
+    transition: background-color 0.2s;
+}
+
+.edit-btn:hover {
+    background-color: rgba(33, 150, 243, 0.08) !important;
+}
+
+.delete-btn:hover {
+    background-color: rgba(244, 67, 54, 0.08) !important;
+}

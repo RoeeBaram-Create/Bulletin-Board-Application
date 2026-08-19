@@ -1,0 +1,15 @@
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\bin\Debug\net8.0\JobPosting.Application.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\bin\Debug\net8.0\JobPosting.Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\bin\Debug\net8.0\JobPosting.Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\bin\Debug\net8.0\JobPosting.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\bin\Debug\net8.0\JobPosting.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.csproj.AssemblyReference.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.csproj.CopyComplete
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\refint\JobPosting.Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\JobPosting.Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Application\obj\Debug\net8.0\ref\JobPosting.Application.dll

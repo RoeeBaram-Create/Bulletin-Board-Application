@@ -1,0 +1,34 @@
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\BulletinBoard.Domain.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\refint\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Domain\obj\Debug\net8.0\ref\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\refint\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Domain\obj\Debug\net8.0\ref\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.deps.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfoInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.AssemblyInfo.cs
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.csproj.CoreCompileInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.sourcelink.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\refint\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Domain\obj\Debug\net8.0\ref\BulletinBoard.Domain.dll

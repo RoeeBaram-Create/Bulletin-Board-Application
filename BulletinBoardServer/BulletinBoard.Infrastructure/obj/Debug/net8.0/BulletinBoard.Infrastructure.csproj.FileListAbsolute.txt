@@ -1,0 +1,55 @@
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\Storage\ads.Json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CopyComplete
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\refint\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\JobPosting\JobPosting.Infrastructure\obj\Debug\net8.0\ref\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\Storage\ads.Json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.deps.json
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfo.cs
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CopyComplete
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\refint\BulletinBoard.Infrastructure.dll
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\Users\roeeb\Desktop\קורסים בתכנות\BulletinBoard\BulletinBoard.Infrastructure\obj\Debug\net8.0\ref\BulletinBoard.Infrastructure.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\Storage\ads.Json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.deps.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard .Application.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\bin\Debug\net8.0\BulletinBoard.Domain.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.AssemblyReference.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfoInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.AssemblyInfo.cs
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.sourcelink.json
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.csproj.CopyComplete
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\refint\BulletinBoard.Infrastructure.dll
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\BulletinBoard.Infrastructure.pdb
+C:\GitRepositories\BulletinBoardApplication\BulletinBoardServer\BulletinBoard.Infrastructure\obj\Debug\net8.0\ref\BulletinBoard.Infrastructure.dll

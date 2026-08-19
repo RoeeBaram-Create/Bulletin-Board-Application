@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting\\שש.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj",
+        "projectName": "CoreBoard.Application",
+        "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj",
+        "packagesPath": "C:\\Users\\roeeb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj",
+        "projectName": "CoreBoard .Domain",
+        "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj",
+        "packagesPath": "C:\\Users\\roeeb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\JobPosting.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\JobPosting.Infrastructure.csproj",
+        "projectName": "JobPosting.Infrastructure",
+        "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\JobPosting.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\roeeb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\JobPosting.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\JobPosting.Persistance.csproj",
+        "projectName": "JobPosting.Persistance",
+        "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\JobPosting.Persistance.csproj",
+        "packagesPath": "C:\\Users\\roeeb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj"
+              },
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Domain\\CoreBoard .Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting\\שש.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting\\שש.csproj",
+        "projectName": "שש",
+        "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting\\שש.csproj",
+        "packagesPath": "C:\\Users\\roeeb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\roeeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Application\\CoreBoard.Application.csproj"
+              },
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\JobPosting.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Infrastructure\\JobPosting.Infrastructure.csproj"
+              },
+              "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\JobPosting.Persistance.csproj": {
+                "projectPath": "C:\\Users\\roeeb\\Desktop\\קורסים בתכנות\\JobPosting\\JobPosting.Persistance\\JobPosting.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
